@@ -1,4 +1,4 @@
-baseURL = "https://my-blog-2gs.pages.dev/"
+baseURL: "https://my-blog-2gs.pages.dev/"
 languageCode: "en-us"
 title: "My Blog"
 theme: "PaperMod"
