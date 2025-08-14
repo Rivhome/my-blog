@@ -1,4 +1,9 @@
-baseURL: https://example.org/
-languageCode: en-us
-title: My New Hugo Site
-theme: ["PaperMod"]
+baseURL: "http://localhost:1313/"
+languageCode: "en-us"
+title: "My Blog"
+theme: "PaperMod"
+
+params:
+  homeInfoParams:
+    Title: "Welcome to My Blog"
+    Content: "This is my first Hugo site with PaperMod."
